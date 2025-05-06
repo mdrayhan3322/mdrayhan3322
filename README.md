@@ -1,7 +1,5 @@
-<!-- GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Epti</h1>
-<h3 align="center">MERN Stack Developer | React Native Enthusiast | AI Learner</h3>
+<h1 align="center">Hi 👋, I'm Rayhan</h1>
+<h3 align="center">MERN Stack Developer | React Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Building+web+%26+mobile+apps;Exploring+AI+%26+ML;Passionate+about+clean+code" alt="Typing SVG" />
@@ -11,18 +9,18 @@
 
 ## 🧑‍💼 About Me
 
-- 🌱 I’m currently learning *AI, Machine Learning, and React Native*  
+- 🌱 I’m currently learning *React, TailwindCss, Javascript and React Native*  
 - 💻 Most of my projects are built with the *MERN stack*  
 - 🔍 Currently exploring *System Design and Scalable Architectures*  
 - 📈 I’m actively improving my *problem-solving* and *interview prep*  
-- 📫 Reach me at: youremail@example.com
+- 📫 Reach me at: mdrayhan10210@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,prisma,python,git,github,tailwind,vscode,figma,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,prisma,python,git,github,tailwind,vscode,figma" alt="Tech Stack" />
 </p>
 
 ---
@@ -47,17 +45,17 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/mdrayhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:mdrayhan10210@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://rayhan-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-<p align="center">📍 Based in Bangladesh | 🌟 Always learning and building</p>
+<p align="center">📍 Based in Bangladesh | 🌟 Always learning and building</p>
